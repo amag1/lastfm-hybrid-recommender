@@ -1,0 +1,1 @@
+{'no_components': 64, 'learning_schedule': 'adagrad', 'loss': 'bpr', 'learning_rate': 0.013115408203141471, 'item_alpha': 1.5091914856963442e-08, 'user_alpha': 2.4557265208238066e-07, 'epochs': 31}
